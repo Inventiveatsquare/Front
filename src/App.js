@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       Welcome to react
+       Welcome to react this is new update
       </header>
     </div>
   );
